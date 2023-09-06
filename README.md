@@ -27,7 +27,7 @@ Subject: `Evolutionary Computation - HUST - 2022.2`
 ## How can i do this project
 
 We try to solve problem with 2 ways below:
-- Genetic Algorithm by [PhD. Huynh Thi Thanh Binh](https://soict.hust.edu.vn/pgs-ts-huynh-thi-thanh-binh.html) and partners.
+- Genetic Algorithm by [Associate Professor Huynh Thi Thanh Binh](https://soict.hust.edu.vn/pgs-ts-huynh-thi-thanh-binh.html) and partners.
 
 - Proposed Algorithm shown in `Clu-Steiner.pdf` by my group.
 
@@ -35,6 +35,7 @@ We try to solve problem with 2 ways below:
 
 Result of project shown in `Clu-Steiner.pdf`
 
+![Screenshot 2023-09-06 235245](https://github.com/thanhbl-hust/Solving-clusteiner-problem-using-GA/assets/117031677/6b23145d-8997-4782-8b89-403fe4edcb27)
 
 
 
