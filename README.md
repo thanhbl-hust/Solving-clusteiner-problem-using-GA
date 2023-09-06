@@ -46,5 +46,5 @@ Algorithm presented in `CluSteiner-paper.pdf`
 
 ## Contact
 - Social network: [Facebook](https://www.facebook.com/thanhbl.hust/) | [Instagram](https://www.instagram.com/thanhbl.io/)
-- [Codeforces](https://codeforces.com/profile/thanhbl-chler) - [LeetCode](https://leetcode.com/thanhbl-chler/)
 - Gmail: lamthanhbui02@gmail.com | thanh.bl204606@sis.hust.edu.vn
+- [Codeforces](https://codeforces.com/profile/thanhbl-chler) - [LeetCode](https://leetcode.com/thanhbl-chler/)
